@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Brenda Duarte</h1>
-<h3 align="center">Sou engenheira e atualmente estudei e finalizei bootcamp de Analista de QA pela Tripleten, desenvolvi diversos projetos durante o curso e me apaixonei pela área.</h3>
+<h3 align="center">Sou engenheira de alimentos e atualmente estudei e finalizei bootcamp de Analista de QA pela Tripleten, desenvolvi diversos projetos durante o curso e me apaixonei pela área.</h3>
 
 - 🌱 Estou aprendendo **Introdução à Gestão de Projetos. (EV.GOVSET/2021); Gestão Pessoal - Base da Liderança. (EV.GOV SET/2021); Atendimento ao público. (FUND. BRADESCO AGO/2021); Postura e imagem profissional. (FUND. BRADESCO AGO/2021); Introdução à administração. (FUND. BRADESCO AGO/2021); Empreendedorismo e inovação. (FUND. BRADESCO AGO/2021).**
 
