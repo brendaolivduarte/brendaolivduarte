@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brenda Duarte</h1>
-<h3 align="center">Sou formada em engenharia de alimentos. Trabalhei por vários anos como analista financeiro e analista de qualidade, atualmente estudei e finalizei bootcamp de Analista de QA pela Tripleten, desenvolvi diversos projetos durante o curso e me apaixonei pela área.</h3>
+<h3 align="center">Sou formada em engenharia de alimentos. Trabalhei por vários anos como analista financeiro e analista de qualidade, atualmente estudei e finalizei bootcamp de Analista de QA pela Tripleten, desenvolvi diversos projetos durante o curso e me apaixonei pela área. Com isso, desenvolvi habilidades em testes automatizados, rastreamento de bugs, Jira, teste de API com Postman, dentre outros.</h3>
 
 - 🌱 I’m currently learning **Análise de Dados (cursando pela Triunfo Educação);Introdução à Gestão de Projetos. (EV.GOVSET/2021); Gestão Pessoal - Base da Liderança. (EV.GOV SET/2021); Atendimento ao público. (FUND. BRADESCO AGO/2021); Postura e imagem profissional. (FUND. BRADESCO AGO/2021); Introdução à administração. (FUND. BRADESCO AGO/2021); Empreendedorismo e inovação. (FUND. BRADESCO AGO/2021).**
 
